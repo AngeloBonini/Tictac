@@ -1,5 +1,7 @@
 # Tictac
 
+## access https://angular-receitas.web.app/ to play the game!!
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Development server
