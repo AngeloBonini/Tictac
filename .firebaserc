@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-receitas": {
+      "hosting": {
+        "tictac": [
+          "angular-receitas"
+        ]
+      }
+    }
+  }
+}
